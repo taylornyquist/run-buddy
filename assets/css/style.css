@@ -61,11 +61,6 @@ footer div {
     float: right;
     line-height: 1.5;
     text-align: right;
-    /* i added the next four lines of code */
-    font-size: 15px;
-    font-weight: normal;
-    color: #39a6b2;
-    font-family: Helvetica, Arial, sans-serif;
 }
 
 footer a {
