@@ -278,6 +278,19 @@ section {
     font-size: 17px;
 }
 
+/* SERVICE GRID SYLES START */
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 /* REACH OUT STYLES START */
 .contact {  
     background-color: #024e76;
